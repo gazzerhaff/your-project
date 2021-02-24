@@ -11,3 +11,4 @@ MARCELLA is on TV
 Tess is restless
 My glass is empty
 My bladder is full
+MARCELLA is DARK
